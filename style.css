@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    margin: auto;
+}
+
+.t-rect {
+    fill: rgba(83, 90, 97, 0.664);
+}
+
+rect {
+    fill: rgb(0, 132, 255);
+}
+
+rect:hover {
+    fill: white;
+}
+
+* {
+    font-size: large;
+}
+
+h1 {
+    font-size: 2.5em;
+}
