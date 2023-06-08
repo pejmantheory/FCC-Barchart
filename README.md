@@ -1,5 +1,5 @@
 Visualize Data with a Scatterplot Graph
-
+<img width="961" alt="Screenshot 2023-06-08 at 6 09 50 AM" src="https://github.com/pejmantheory/FCC-Barchart/assets/81389644/2690e53e-9a65-4553-b2ae-7342a9502cbc">
 https://codepen.io/pejmantheory/pen/LYXERWx
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
@@ -34,4 +34,4 @@ User Story #13: I can see a legend containing descriptive text that has id="lege
 User Story #14: I can mouse over an area and see a tooltip with a corresponding id="tooltip" which displays more information about the area.
 
 User Story #15: My tooltip should have a data-year property that corresponds to the data-xvalue of the active area.
-<img width="961" alt="Screenshot 2023-06-08 at 6 09 50 AM" src="https://github.com/pejmantheory/FCC-Barchart/assets/81389644/2690e53e-9a65-4553-b2ae-7342a9502cbc">
+
