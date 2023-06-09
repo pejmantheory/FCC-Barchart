@@ -1,7 +1,7 @@
 # Visualize Data with a Scatterplot Graph
 <img width="961" alt="Screenshot 2023-06-08 at 6 09 50 AM" src="https://github.com/pejmantheory/FCC-Barchart/assets/81389644/2690e53e-9a65-4553-b2ae-7342a9502cbc">
 
-Coding platform to be used: VSCode or Codepen
+Coding platform to be used: VSCode or CodePen
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
